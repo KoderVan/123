@@ -12,6 +12,7 @@ for char in line:
     if char.isdigit():
         num = num + char
 print(letter*int(num))
+#12345
 
 
 
