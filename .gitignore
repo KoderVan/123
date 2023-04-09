@@ -183,6 +183,6 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 # .idea
-/dataset_4.txt
-/outtext.txt
-/test.py
+dataset_4.txt
+outtext.txt
+test.py
